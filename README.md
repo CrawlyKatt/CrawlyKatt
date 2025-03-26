@@ -1,5 +1,3 @@
-kattopia
-
-evemu server admin
+we out here
 
 
